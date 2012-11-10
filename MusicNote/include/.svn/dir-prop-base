@@ -1,0 +1,6 @@
+K 13
+svn:externals
+V 59
+Common https://oil.svn.sourceforge.net/svnroot/oil/Common/
+
+END

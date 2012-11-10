@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/musicnote/!svn/ver/105/MusicNote/test/StaticLibTestApp
+END
+stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/musicnote/!svn/ver/112/MusicNote/test/StaticLibTestApp/stdafx.h
+END
+SampleApp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/musicnote/!svn/ver/112/MusicNote/test/StaticLibTestApp/SampleApp.cpp
+END
+targetver.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/musicnote/!svn/ver/112/MusicNote/test/StaticLibTestApp/targetver.h
+END
+stdafx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/musicnote/!svn/ver/112/MusicNote/test/StaticLibTestApp/stdafx.cpp
+END

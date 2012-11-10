@@ -1,0 +1,54 @@
+/*
+	This is part of CFugue, a C++ Runtime for MIDI Score Programming
+	Copyright (C) 2009-2010 Gopalakrishna Palem
+
+	For links to further information, or to contact the author,
+	see <http://musicnote.sourceforge.net/>.
+*/
+
+#ifndef __PARSERLISTENER_H__D2514D7C_F971_49d6_B8E0_E892725FEB73__
+#define __PARSERLISTENER_H__D2514D7C_F971_49d6_B8E0_E892725FEB73__
+
+#include "Common/EventHandler.h"
+
+namespace MusicNoteLib
+{
+	//Forward Declarations
+	class CParser;
+	class Instrument;
+    class KeySignature;
+    class Layer;
+    class Tempo;
+    class Time;
+    class Voice;
+	struct Note;
+
+    /// <Summary>
+    /// \brief Base class that represents a Renderer Object
+    /// </Summary>
+	class CParserListener : public OIL::CEventReceiver
+	{
+	public:
+
+		inline CParserListener(void) {	}
+
+		inline virtual ~CParserListener(void)	{	}
+
+		inline virtual void OnInstrumentEvent(const CParser* pParser, const Instrument* pInstrument) { } 
+
+		inline virtual void OnKeySignatureEvent(const CParser* pParser, const KeySignature* pKeySig) { } 
+
+		inline virtual void OnLayerEvent(const CParser* pParser, const Layer* pLayer) { } 
+
+		inline virtual void OnTempoEvent(const CParser* pParser, const Tempo* pTempo) { } 
+
+		inline virtual void OnTimeEvent(const CParser* pParser, const Time* pTime) { } 
+
+		inline virtual void OnVoiceEvent(const CParser* pParser, const Voice* pVoice) { } 
+
+		inline virtual void OnNoteEvent(const CParser* pParser, const Note* pNote) { } 
+	};
+
+} // namespace MusicNoteLib
+
+#endif // __PARSERLISTENER_H__D2514D7C_F971_49d6_B8E0_E892725FEB73__

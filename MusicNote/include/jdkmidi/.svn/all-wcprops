@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/musicnote/!svn/ver/44/MusicNote/include/jdkmidi
+END
+filewritemultitrack.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/musicnote/!svn/ver/44/MusicNote/include/jdkmidi/filewritemultitrack.h
+END
+filewrite.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/musicnote/!svn/ver/44/MusicNote/include/jdkmidi/filewrite.h
+END
+sequencer.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/musicnote/!svn/ver/44/MusicNote/include/jdkmidi/sequencer.h
+END
+tick.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/musicnote/!svn/ver/44/MusicNote/include/jdkmidi/tick.h
+END
+keysig.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/musicnote/!svn/ver/44/MusicNote/include/jdkmidi/keysig.h
+END
+driver.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/musicnote/!svn/ver/44/MusicNote/include/jdkmidi/driver.h
+END
+parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/musicnote/!svn/ver/44/MusicNote/include/jdkmidi/parser.h
+END
+matrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/musicnote/!svn/ver/44/MusicNote/include/jdkmidi/matrix.h
+END
+track.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/musicnote/!svn/ver/44/MusicNote/include/jdkmidi/track.h
+END
+song.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/musicnote/!svn/ver/44/MusicNote/include/jdkmidi/song.h
+END
+manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/musicnote/!svn/ver/44/MusicNote/include/jdkmidi/manager.h
+END
+edittrack.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/musicnote/!svn/ver/44/MusicNote/include/jdkmidi/edittrack.h
+END
+filereadmultitrack.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/musicnote/!svn/ver/44/MusicNote/include/jdkmidi/filereadmultitrack.h
+END
+fileread.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/musicnote/!svn/ver/44/MusicNote/include/jdkmidi/fileread.h
+END
+sysex.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/musicnote/!svn/ver/44/MusicNote/include/jdkmidi/sysex.h
+END
+driverwin32.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/musicnote/!svn/ver/44/MusicNote/include/jdkmidi/driverwin32.h
+END
+process.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/musicnote/!svn/ver/44/MusicNote/include/jdkmidi/process.h
+END
+file.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/musicnote/!svn/ver/44/MusicNote/include/jdkmidi/file.h
+END
+multitrack.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/musicnote/!svn/ver/44/MusicNote/include/jdkmidi/multitrack.h
+END
+showcontrolhandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/musicnote/!svn/ver/44/MusicNote/include/jdkmidi/showcontrolhandler.h
+END
+fileshow.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/musicnote/!svn/ver/44/MusicNote/include/jdkmidi/fileshow.h
+END
+advancedsequencer.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/musicnote/!svn/ver/44/MusicNote/include/jdkmidi/advancedsequencer.h
+END
+driverdump.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/musicnote/!svn/ver/44/MusicNote/include/jdkmidi/driverdump.h
+END
+showcontrol.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/musicnote/!svn/ver/44/MusicNote/include/jdkmidi/showcontrol.h
+END
+midi.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/musicnote/!svn/ver/44/MusicNote/include/jdkmidi/midi.h
+END
+queue.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/musicnote/!svn/ver/44/MusicNote/include/jdkmidi/queue.h
+END
+tempo.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/musicnote/!svn/ver/44/MusicNote/include/jdkmidi/tempo.h
+END
+msg.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/musicnote/!svn/ver/44/MusicNote/include/jdkmidi/msg.h
+END
+world.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/musicnote/!svn/ver/44/MusicNote/include/jdkmidi/world.h
+END
+smpte.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/musicnote/!svn/ver/44/MusicNote/include/jdkmidi/smpte.h
+END

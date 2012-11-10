@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/musicnote/!svn/ver/109/MusicNote/include
+END
+Parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/musicnote/!svn/ver/112/MusicNote/include/Parser.h
+END
+Player.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/musicnote/!svn/ver/112/MusicNote/include/Player.h
+END
+MusicNoteLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/musicnote/!svn/ver/112/MusicNote/include/MusicNoteLib.h
+END
+Time.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/musicnote/!svn/ver/112/MusicNote/include/Time.h
+END
+Talam.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/musicnote/!svn/ver/112/MusicNote/include/Talam.h
+END
+MusicNoteDll.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/musicnote/!svn/ver/112/MusicNote/include/MusicNoteDll.h
+END
+ParserListener.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/musicnote/!svn/ver/112/MusicNote/include/ParserListener.h
+END
+Voice.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/musicnote/!svn/ver/112/MusicNote/include/Voice.h
+END
+Dictionary.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/musicnote/!svn/ver/109/MusicNote/include/Dictionary.h
+END
+Note.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/musicnote/!svn/ver/112/MusicNote/include/Note.h
+END
+Instrument.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/musicnote/!svn/ver/112/MusicNote/include/Instrument.h
+END
+MIDIRenderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/musicnote/!svn/ver/112/MusicNote/include/MIDIRenderer.h
+END
+KeySignature.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/musicnote/!svn/ver/96/MusicNote/include/KeySignature.h
+END
+Layer.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/musicnote/!svn/ver/112/MusicNote/include/Layer.h
+END
+MIDIEventManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/musicnote/!svn/ver/112/MusicNote/include/MIDIEventManager.h
+END
+Chords.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/musicnote/!svn/ver/112/MusicNote/include/Chords.h
+END
+MString.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/musicnote/!svn/ver/96/MusicNote/include/MString.h
+END
+MusicStringParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/musicnote/!svn/ver/112/MusicNote/include/MusicStringParser.h
+END
+Tempo.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/musicnote/!svn/ver/112/MusicNote/include/Tempo.h
+END
